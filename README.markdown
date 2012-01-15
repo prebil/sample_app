@@ -26,6 +26,11 @@ Rails. You can read more about Action Pack in
 link:files/vendor/rails/actionpack/README.html.
 
 
+== Added by T.J. Prebil when starting
+
+Followed steps outlined by Ruby on Rails Tutorial (Chapter 3) http://ruby.railstutorial.org/chapters/static-pages#top
+
+
 == Getting Started
 
 1. At the command prompt, create a new Rails application:
