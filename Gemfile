@@ -10,12 +10,12 @@ gem 'sqlite3', '~> 1.3.4'
 
 # Added for testing purposes
 group :development do
-	gem 'rspec-rails', '2.6.1'
+  gem 'rspec-rails', '2.0.0.beta.18'
 end
 
 group :test do
-	gem 'rspec-rails', '2.6.1'
-	gem 'webrat', '0.7.1'
+	gem 'rspec-rails', '2.0.0.beta.18'
+	gem 'webrat'
 	gem 'spork', '0.9.0.rc8'
 end
 
